@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VISHALBHARDWAJ123
 - 👀 I’m interested in ... Android App Development (with Java)
-- 🌱 I’m currently learning ...Android App Development (with Java)
+- 🌱 I’m currently learning ...Android App Development (with Java) and Flutter
 - 📫 How to reach me ...Contact : +918307705016, Whatsapp : +918930745024
 
 <!---
