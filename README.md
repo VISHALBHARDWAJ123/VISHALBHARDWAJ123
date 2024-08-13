@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ImmiNex
 - 💬 Ask me about **flutter,native android**
 
-- 📫 How to reach me **devb747@gmail.com, +919350911847**
+- 📫 How to reach me **devb7647@gmail.com, +919350911847**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
