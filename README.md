@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhardwajiam" target="blank"><img src="https://img.shields.io/twitter/follow/bhardwajiam?logo=twitter&style=for-the-badge" alt="bhardwajiam" /></a> </p>
 
-- 🔭 I’m currently working on ImmiNex
+- 🔭 I’m currently working with NexEver PVT LTD
 - 💬 Ask me about **flutter,native android**
 
 - 📫 How to reach me **devb7647@gmail.com, +919350911847**
